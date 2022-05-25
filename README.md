@@ -15,6 +15,8 @@ R-studio, MS SQL Server, Tableau, Excel, and python.
  (Note: Some of the projects included here are long-term project and are still Work-in-progress.)
    ### Data Mining
    • [Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase) **  <br>
+   • [Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
+
    
 ## Project Overview
 ### Prediction of personal loan purchase
@@ -23,5 +25,11 @@ R-studio, MS SQL Server, Tableau, Excel, and python.
    **View my notebook:** [PredictingLoanPurchaseAndCustomerSegmentationAnalysis](https://github.com/denish5300/Prediction-of-Personal-Loan-Purchase-Customer-Segmentation-Analysis/blob/main/Bank_Personal_Loan_Original.csv)<br>
    **Tools:** R <br>
    **Project Highlight:** [YoutubeVideo](https://www.youtube.com/watch?v=CM71NL_BHHc) <br>
-   **PowerPoint:** [Powerpoint Presentation](https://github.com/denish5300/Prediction-of-Personal-Loan-Purchase-Customer-Segmentation-Analysis/blob/main/PersonalLoanProjectPresentation.pptx)
+   **PowerPoint:** [Powerpoint Presentation](https://github.com/denish5300/Prediction-of-Personal-Loan-Purchase-Customer-Segmentation-Analysis/blob/main/PersonalLoanProjectPresentation.pptx) <br>
+ 
+### Twitter sentiment analysis
+   **Motivation:** <span> A Sentiment analysis is commonly known as "opinion mining" or "emotion artificial intelligence". The purpose of this analysis                             is to determine the mood of an individual that is expressed through text toward someone or to a topic. <span>  <br>
+   **View my notebook:** [TwitterSentimentAnalysis](https://github.com/denish5300/Twitter-Sentiment-Analysis-using-R)  <br>
+   **Tools:** R
+    
 
