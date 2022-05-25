@@ -12,7 +12,7 @@ R-studio, MS SQL Server, Tableau, Excel, and python.
 # Table of contents    
  ## [Introduction](#Introduction) <br/>
  ## [Portfolio Projects](#Portfolio-Projects) <br/>
- (Note: Some of the projects included here are long-term project and are still Work-in-progress.)
+ (Note: Some of the projects\** included here are long-term project and are still Work-in-progress.)
    ### Data Mining
    • [Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase) **  <br>
    • [Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
