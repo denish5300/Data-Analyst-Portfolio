@@ -14,7 +14,7 @@ R-studio, MS SQL Server, Tableau, Excel, and python.
  ## [Portfolio Projects](#Portfolio-Projects) <br/>
  (Note: Some of the projects included here are long-term project and are still Work-in-progress.)
    ### Data Mining
-   •[Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase) **  <br>
+   • [Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase) **  <br>
    
 ## Project Overview
 ### Prediction of personal loan purchase
