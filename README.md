@@ -12,6 +12,21 @@ R-studio, MS SQL Server, Tableau, Excel, and python.
 # Table of contents    
  ## [Introduction](#Introduction) <br/>
  ## [Portfolio Projects](#Portfolio-Projects) <br/>
+ (Note: The projects that have \**, meaning these are long-term project. These projects are still in the progress of development in term of data collection and data analytics, nevertheless I have also included the presentation and the code notebook)
+   ### Data Mining
+   •[Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase) **  <br>
+   •[Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
+   •[Medical expenses prediction](#Predicting-medical-expenses) <br/>
+   •[Wine quality prediction](#Predicting-wine-quality) <br/>
+   •[SMS spam analysis](#SMS-spam-analysis) <br>
 
 
+## Project Overview
+
+### Prediction of personal loan purchase
+   **Motivation:** <span>  According to Investopedia, a personal loan is an amount of money you can borrow to use for a variety of purposes. One of the attractions of personal loans is you can use them for practically anything. The reason I chose this topic is because of my interest in applying predictive and descriptive models in the financial sector. <span>  <br>
+   **View my notebook:** [PredictingLoanPurchaseAndCustomerSegmentationAnalysis](https://github.com/Ellypham92/Prediction-of-Personal-Loan-Purchase-Customer-Segmentation-Analysis/blob/main/ProjectCode.R)<br>
+   **Tools:** R <br>
+   **Project Highlight:** [YoutubeVideo](https://www.youtube.com/watch?v=CM71NL_BHHc) <br>
+   **PowerPoint:** [PptPresentation](https://github.com/Ellypham92/Prediction-of-Personal-Loan-Purchase-Customer-Segmentation-Analysis/blob/main/Team3-ProjectPresentation.pptx)
 
