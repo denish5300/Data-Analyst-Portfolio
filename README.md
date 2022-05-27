@@ -37,4 +37,11 @@ R-studio, MS SQL Server, Tableau, Excel, and python.
              to determine the species of iris flower in R. <span>  <br>
   **View my notebook:** [Iris Species Detection Using KNN in R](https://github.com/denish5300/Iris-Species-Detection-Using-KNN-in-R)  <br>
    **Tools:** R
+ 
+### SMS Spam Analysis using Naive Bayes Classifier
+  **Motivation:** <span>  The Naive Bayes algorithm describes a simple method to apply Bayes' theorem to classification problems. <span>  <br>
+  **View my notebook:** [SMS Spam Analysis using Naive Bayes Classifier](https://github.com/denish5300/SMS-Spam-Analysis)  <br>
+   **Tools:** R 
+ 
+ 
     
