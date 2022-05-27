@@ -16,7 +16,7 @@ R-studio, MS SQL Server, Tableau, Excel, and python.
    ### Data Mining
    • [Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase) **  <br>
    • [Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
-
+   • [Iris Species Detection Using KNN in R](#Iris-Species-Detection-Using-KNN-in-R) <br/>
    
 ## Project Overview
 ### Prediction of personal loan purchase
@@ -32,4 +32,9 @@ R-studio, MS SQL Server, Tableau, Excel, and python.
    **View my notebook:** [TwitterSentimentAnalysis](https://github.com/denish5300/Twitter-Sentiment-Analysis-using-R)  <br>
    **Tools:** R
     
-
+### Iris Species Detection using KNN in R
+  **Motivation:** <span> KNN algorithm is commonly used to detect the category of target variable using its K nearest neighbor. The purpose of this analysis is to
+             to determine the species of iris flower in R. <span>  <br>
+  **View my notebook:** [Iris Species Detection Using KNN in R]()  <br>
+   **Tools:** R
+    
