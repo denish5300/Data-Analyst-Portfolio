@@ -18,6 +18,7 @@ R-studio, MS SQL Server, Tableau, Excel, and python.
    • [Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
    • [Iris Species Detection Using KNN in R](#Iris-Species-Detection-Using-KNN-in-R) <br/>
    • [SMS Spam Analysis using Naive Bayes Classifier](#SMS-Spam-Analysis) <br/>
+   
 ## Project Overview
 ### Prediction of personal loan purchase
    **Motivation:** <span>  According to Investopedia, a personal loan is an amount of money you can borrow to use for a variety of purposes. One of the attractions of personal loans is you can use them for practically anything. The reason I chose this topic is because of my interest in applying predictive and descriptive models in the financial sector. <span>  <br>
@@ -38,7 +39,7 @@ R-studio, MS SQL Server, Tableau, Excel, and python.
   **View my notebook:** [Iris Species Detection Using KNN in R](https://github.com/denish5300/Iris-Species-Detection-Using-KNN-in-R)  <br>
    **Tools:** R
  
-### SMS Spam Analysis using Naive Bayes Classifier
+### SMS Spam Analysis
   **Motivation:** <span>  The Naive Bayes algorithm describes a simple method to apply Bayes' theorem to classification problems. <span>  <br>
   **View my notebook:** [SMS Spam Analysis using Naive Bayes Classifier](https://github.com/denish5300/SMS-Spam-Analysis)  <br>
    **Tools:** R 
