@@ -51,7 +51,7 @@ R-studio, MS SQL Server, Tableau, Excel, and python.
  
  ### KPI Dashboard
   **Motivation:** <span>  KPI Dashboard provides sale vs sales Target details, profit and discount. <span>  <br>
-  **View my notebook:** [KPI Dashboard](https://github.com/denish5300/SMS-Spam-Analysis)  <br>
+  **View my notebook:** [KPI Dashboard](https://github.com/denish5300/KPI-Dashboard)  <br>
    **Tools:** Tableau
  
  
