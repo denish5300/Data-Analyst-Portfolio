@@ -35,6 +35,6 @@ R-studio, MS SQL Server, Tableau, Excel, and python.
 ### Iris Species Detection using KNN in R
   **Motivation:** <span> KNN algorithm is commonly used to detect the category of target variable using its K nearest neighbor. The purpose of this analysis is to
              to determine the species of iris flower in R. <span>  <br>
-  **View my notebook:** [Iris Species Detection Using KNN in R]()  <br>
+  **View my notebook:** [Iris Species Detection Using KNN in R](https://github.com/denish5300/Iris-Species-Detection-Using-KNN-in-R)  <br>
    **Tools:** R
     
