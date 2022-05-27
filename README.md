@@ -17,7 +17,7 @@ R-studio, MS SQL Server, Tableau, Excel, and python.
    • [Prediction of personal loan purchase](#Prediction-of-personal-loan-purchase) **  <br>
    • [Twitter sentiment analysis](#Twitter-sentiment-analysis) <br/>
    • [Iris Species Detection Using KNN in R](#Iris-Species-Detection-Using-KNN-in-R) <br/>
-   
+   • [SMS Spam Analysis using Naive Bayes Classifier](#SMS-Spam-Analysis) <br/>
 ## Project Overview
 ### Prediction of personal loan purchase
    **Motivation:** <span>  According to Investopedia, a personal loan is an amount of money you can borrow to use for a variety of purposes. One of the attractions of personal loans is you can use them for practically anything. The reason I chose this topic is because of my interest in applying predictive and descriptive models in the financial sector. <span>  <br>
