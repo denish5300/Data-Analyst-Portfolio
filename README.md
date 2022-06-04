@@ -1,4 +1,5 @@
 # Data Analyst Portfolio - Denish Shrestha
+![image](https://user-images.githubusercontent.com/57538631/171976174-4f928bc5-d9d3-423c-8e50-392e08d98ad1.png)
 
 
 # Introduction
