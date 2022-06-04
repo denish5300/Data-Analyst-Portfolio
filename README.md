@@ -21,6 +21,7 @@ R-studio, MS SQL Server, Tableau, Excel, and python.
    
    ### Data Visualization
    • [KPI Dashboard](#KPI-Dashboard) <br/>
+   • [Financial Complaints Dashboard](#Financial-Complaints-Dashboard) <br/>
    
   
    
