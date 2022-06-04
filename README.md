@@ -62,4 +62,10 @@ R-studio, MS SQL Server, Tableau, Excel, and python.
   **View my notebook:** [Financial Complaints Dashboard](https://github.com/denish5300/Financial-Complaints-Dashboard)  <br>
    **Tools:** Tableau
  
+  ### Super Store Performance Dashboard
+  **Motivation:** <span>  Performance Dashboard provides information about performance by different categories based on the territory such as by region/state. <span>  <br>
+  **View my notebook:** [Super Store Performance Dashboard](https://github.com/denish5300/Super-Store-Performance-Dashboard) <br>
+   **Tools:** Tableau
+ 
+ 
     
