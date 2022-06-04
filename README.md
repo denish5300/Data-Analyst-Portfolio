@@ -52,18 +52,21 @@ R-studio, MS SQL Server, Tableau, Excel, and python.
   **View my notebook:** [SMS Spam Analysis using Naive Bayes Classifier](https://github.com/denish5300/SMS-Spam-Analysis)  <br>
    **Tools:** R 
  
- ### KPI Dashboard
+ ### KPI Dashboard 
+ ![image](https://user-images.githubusercontent.com/57538631/172015821-b833ea1b-3d9c-49e9-b221-7922632b4af7.png) <br>
   **Motivation:** <span>  KPI Dashboard provides sale vs sales Target details, profit and discount. <span>  <br>
   **View my notebook:** [KPI Dashboard](https://github.com/denish5300/KPI-Dashboard)  <br>
    **Tools:** Tableau
  
   ### Financial Complaints Dashboard
+ ![image](https://user-images.githubusercontent.com/57538631/172015689-866a4a71-634f-47c7-9a64-884f18ce16a7.png) <br>
   **Motivation:** <span>  Financial complaints dashboard provides information about different aspects of the complaints such as total number of complaints,
      Timely Response rate, complaints in progress, disputed rate, complaints resolved at no cost, etc <span>  <br>
   **View my notebook:** [Financial Complaints Dashboard](https://github.com/denish5300/Financial-Complaints-Dashboard)  <br>
    **Tools:** Tableau
  
   ### Super Store Performance Dashboard
+ ![image](https://user-images.githubusercontent.com/57538631/172015390-8ec92e21-24fd-44ea-b505-62c3db9208f5.png)<br>
   **Motivation:** <span>  Performance Dashboard provides information about performance by different categories based on the territory such as by region/state. <span>  <br>
   **View my notebook:** [Super Store Performance Dashboard](https://github.com/denish5300/Super-Store-Performance-Dashboard) <br>
    **Tools:** Tableau
