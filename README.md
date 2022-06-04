@@ -54,6 +54,10 @@ R-studio, MS SQL Server, Tableau, Excel, and python.
   **View my notebook:** [KPI Dashboard](https://github.com/denish5300/KPI-Dashboard)  <br>
    **Tools:** Tableau
  
- 
+  ### Financial Complaints Dashboard
+  **Motivation:** <span>  Financial complaints dashboard provides information about different aspects of the complaints such as total number of complaints,
+     Timely Response rate, complaints in progress, disputed rate, complaints resolved at no cost, etc <span>  <br>
+  **View my notebook:** [Financial Complaints Dashboard](https://github.com/denish5300/Financial-Complaints-Dashboard)  <br>
+   **Tools:** Tableau
  
     
